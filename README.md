@@ -1,26 +1,22 @@
 
 <!-- <h2 align="center"> Hey there! I'm Fernanda. </h2>
-<p align="center">I'm a developer from Fortaleza, Brazil</p>
+<p align="center">I'm a developer from Brazil</p>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
-    width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" 
-    width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
-    width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
-    width="30" height="30"/>
-  <img src="" 
-    width="30" height="30"/>
-  <img src="" 
-    width="30" height="30"/>
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 </div>
 
 ![Fersl's GitHub stats](https://github-readme-stats.vercel.app/api?username=fersl&hide=prs,issues&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact)
--->
 
+-->
 <!-- saudação, sou fulano de tal
 minha profissão, ou que curso esotu fazendo (pós graduação, sei lá)
 sou de lugar tal, moro em lugar tal
