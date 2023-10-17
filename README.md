@@ -11,19 +11,28 @@
 <hr/>
 
 <h3>My Skills</h3>
-<div align="left">
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+      <br/>
+      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-![Fersl's GitHub stats](https://github-readme-stats.vercel.app/api?username=fersl&hide=prs,issues&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact)
+
+<!-- ![Fersl's GitHub stats](https://github-readme-stats.vercel.app/api?username=fersl&hide=contribs&show_icons=true&theme=dracula&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=true)-->
 
 
 <!-- saudação, sou fulano de tal
