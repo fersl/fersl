@@ -14,15 +14,15 @@
 <table>
   <tr>
     <td>
-      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+      <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+      <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+      <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
       <br/>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=true" />
