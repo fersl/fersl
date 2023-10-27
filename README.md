@@ -1,6 +1,13 @@
 
-<h2> Hey there! My name is Fernanda. </h2>
-<p>I'm a developer from Brazil</p>
+<div align="center" width="150">
+  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" align="center"/>
+</div>
+
+<div>
+  <h2> Hey there! My name is Fernanda. </h2>
+  <p>I'm a developer from Brazil</p>
+  
+</div>
 
 
 <div>
