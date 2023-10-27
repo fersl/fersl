@@ -13,8 +13,12 @@
 
 
 <div>
-  <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:fernandasrlm@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <hr/>
