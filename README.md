@@ -1,9 +1,12 @@
 
-<div align="center" width="150">
-  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" align="center"/>
+<!--
+<div align="center">
+  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="300"/>
 </div>
+-->
 
 <div>
+  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" align="right" height="150"/>
   <h2> Hey there! My name is Fernanda. </h2>
   <p>I'm a developer from Brazil</p>
   
