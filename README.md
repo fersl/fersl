@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="300"/>
+  <img src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" />
 </div>
 
 
@@ -38,9 +39,6 @@
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
     </td>
     <td>
-      <!---<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=false#gh-dark-mode-only" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=false#gh-dark-mode-only" />
-      -->
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000"
