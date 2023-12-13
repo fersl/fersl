@@ -38,7 +38,7 @@
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=false" />
     </td>
   </tr>
 </table>
