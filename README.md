@@ -38,7 +38,19 @@
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=false" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=false#gh-dark-mode-only" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000&hide_border=false#gh-dark-mode-only" />
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=vue&bg_color=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersl&layout=compact&theme=dracula&bg_color=00000000" />
+      </picture>
     </td>
   </tr>
 </table>
