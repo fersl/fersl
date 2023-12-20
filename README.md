@@ -7,7 +7,7 @@
 
 <div>
   <h2> Hey there! My name is Fernanda. </h2>
-  <p>I'm a developer from Brazil</p>
+  <p>I'm a curious developer dedicated to learning and growing in the world of technology. With an interest in multiple areas, from front-end to back-end, I'm diving into languages like JavaScript, Python, and Java to understand the magic behind web applications and beyond. I'm seeking opportunities to collaborate on challenging projects, contribute my enthusiasm and eagerness to learn, while also offering new perspectives. Eager to expand my knowledge and connect with the vibrant developer community.</p>
   
 </div>
 
